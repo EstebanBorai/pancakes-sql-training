@@ -25,4 +25,4 @@ IGNORE 1 ROWS (
 	city,
 	postal_code,
 	country
-);"
+);
