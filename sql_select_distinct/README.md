@@ -37,7 +37,7 @@ Result:
 
 ### `003-count.sql`
 Query:
-```
+```sql
 SELECT COUNT(DISTINCT country) FROM customers_northwind;
 ```
 
@@ -52,7 +52,7 @@ Result:
 
 ### `004-alias.sql`
 Query:
-```
+```sql
 SELECT COUNT(*) AS distinct_countries
 FROM (SELECT DISTINCT country FROM customers_northwind) AS country;
 ```
