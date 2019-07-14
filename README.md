@@ -24,6 +24,8 @@ docker run -p 3306:3306 pancakes-sql-training:latest
 - [SQL Select Distinct](https://github.com/estebanborai/pancakes-sql-training/tree/master/sql_select_distinct)
 - [SQL Select Where](https://github.com/estebanborai/pancakes-sql-training/tree/master/sql_select_where)
 - [SQL And, Or, Not](https://github.com/estebanborai/pancakes-sql-training/tree/master/sql_and_or_not)
+- [SQL Order By](https://github.com/estebanborai/pancakes-sql-training/tree/master/sql_order_by)
+- [SQL Insert Into](https://github.com/estebanborai/pancakes-sql-training/tree/master/sql_insert_into)
 
 ## References
 - [W3Schools](https://www.w3schools.com/sql/)
